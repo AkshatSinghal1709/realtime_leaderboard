@@ -1,8 +1,7 @@
-package com.example.realtime;
+package com.example.realtime.Config;
 
 import com.example.realtime.dto.LeaderboardDto;
 import com.example.realtime.dto.UserDto;
-import org.apache.kafka.common.protocol.types.Field;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
 import org.springframework.data.redis.connection.RedisConnectionFactory;
